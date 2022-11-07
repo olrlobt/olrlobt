@@ -16,7 +16,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0aa0edcafb0ae175f4a01f708ea50abbe47e3a67ea2017dd2633d5e428b6a7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0aa0edcafb0ae175f4a01f708ea50abbe47e3a67ea2017dd2633d5e428b6a7c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c61742d737175617265266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=Docker&amp;logoColor=white" style="max-width: 100%;"></a>
 
   <br><br><br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olrlobt&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olrlobt)](https://github.com/olrlobt/github-readme-stats)
   
