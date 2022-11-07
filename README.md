@@ -1,6 +1,8 @@
 <div align="center" dir="auto">
 
-### Hi there 👋
+### Welcome to olrlobt's Git Hub 👋
+
+  🔗[olrlobt-velog ](https://velog.io/@olrlobt)
 
 <!--
 **olrlobt/olrlobt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
