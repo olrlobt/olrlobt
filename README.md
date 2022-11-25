@@ -2,6 +2,10 @@
 
 ### Welcome to olrlobt's Git Hub 👋
 
+  우테코 프리코스 완료 !! 구디 아카데미 최종프로젝트 진행중 !!
+  ThorAction & webrtc
+  
+  
   🔗[olrlobt-velog ](https://velog.io/@olrlobt)
 
 <br><br><br><br>
