@@ -6,7 +6,7 @@
   ThorAction & webrtc
   
   
-  🔗[olrlobt-velog ](https://velog.io/@olrlobt)
+  회고록 작성 완료 !! >> 🔗[olrlobt-velog ](https://velog.io/@olrlobt)
 
 <br><br><br><br>
 <p dir="auto"><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png"></g-emoji>✏️Studying✏️ <br>
