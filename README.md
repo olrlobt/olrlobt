@@ -17,6 +17,12 @@
   
   
   회고록 작성 완료 !! >> 🔗[olrlobt-velog ](https://velog.io/@olrlobt)
+  
+  싸피 인터뷰 준비중 !!
+  
+  항상 화이팅 !!
+  
+  
 
 <br><br><br><br>
 <p dir="auto"><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png"></g-emoji>✏️Studying✏️ <br>
