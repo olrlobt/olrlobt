@@ -1,7 +1,7 @@
 
 
 ### ♟️ About Me 
-<hr>
+---
   👋 안녕하세요. 신입 백엔드 개발자 이승헌입니다.
 
   - 끊임없이 하는 고민만이 문제를 빠르게 해결할 수 있는 길이라고 생각합니다.
@@ -14,7 +14,7 @@
 <br><br>
   
 ### 🏃‍♂️Skills
-<hr>  
+--- 
 <div align="center" dir="auto">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white"/>
@@ -34,11 +34,14 @@
 
 
 ### ✍Blog
-<hr>  
+---  
 <div align="center" dir="auto">
 <img src="https://img.shields.io/badge/Tistory-FF0000?style=flat&logo=tistory&logoColor=white"/>
 </div>
 
+<br> <br> <br> <br>
 
-
+### 🙌3D Contributions in the last year
+---
+![](./profile-3d-contrib/profile-green-animate.svg)
   
