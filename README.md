@@ -47,14 +47,9 @@
 ---  
 ⚠ `리드미에서 블로그 포스팅 박스 API 제작 & 테스트 중입니다`
 
-<a href="https://olrlobt.tistory.com/">
-  <div align="center" dir="auto">
-    <img src="https://img.shields.io/badge/Tistory-FF0000?style=flat&logo=tistory&logoColor=white"/>
-  </div>
-</a>
-
- <br> <br>
-
+<br><br>
+ 
+[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-info?blogName=olrlobt)](https://olrlobt.tistory.com/)
 [![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/0?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/0?blogName=olrlobt)
 [![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/1?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/1?blogName=olrlobt)
 [![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/2?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/2?blogName=olrlobt)
