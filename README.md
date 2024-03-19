@@ -49,15 +49,15 @@
 
 <br><br>
  
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-info?blogName=olrlobt)](https://olrlobt.tistory.com/)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/0?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/0?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/1?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/1?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/2?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/2?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/3?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/3?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/4?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/4?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/5?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/5?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/6?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/6?blogName=olrlobt)
-[![Top Langs](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting/7?blogName=olrlobt)](http://ec2-13-124-208-57.ap-northeast-2.compute.amazonaws.com:8080/api/posting-link/7?blogName=olrlobt)
+[![블로그 정보](https://blogwidget.com/api/posting-info?blogName=olrlobt)](https://olrlobt.tistory.com/)
+[![게시물](https://blogwidget.com/api/posting/0?blogName=olrlobt)](https://blogwidget.com/api/posting-link/0?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/1?blogName=olrlobt)](https://blogwidget.com/api/posting-link/1?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/2?blogName=olrlobt)](https://blogwidget.com/api/posting-link/2?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/3?blogName=olrlobt)](https://blogwidget.com/api/posting-link/3?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/4?blogName=olrlobt)](https://blogwidget.com/api/posting-link/4?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/5?blogName=olrlobt)](https://blogwidget.com/api/posting-link/5?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/6?blogName=olrlobt)](https://blogwidget.com/api/posting-link/6?blogName=olrlobt)
+[![게시물](https://blogwidget.com/api/posting/7?blogName=olrlobt)](https://blogwidget.com/api/posting-link/7?blogName=olrlobt)
 
 
 
