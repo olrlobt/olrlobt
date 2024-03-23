@@ -49,15 +49,15 @@
 
 <br><br>
  
-[![블로그 정보](https://blogwidget.com/api/posting-info?blogName=olrlobt)](https://olrlobt.tistory.com/)
-[![게시물](https://blogwidget.com/api/posting/0?blogName=olrlobt)](https://blogwidget.com/api/posting-link/0?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/1?blogName=olrlobt)](https://blogwidget.com/api/posting-link/1?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/2?blogName=olrlobt)](https://blogwidget.com/api/posting-link/2?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/3?blogName=olrlobt)](https://blogwidget.com/api/posting-link/3?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/4?blogName=olrlobt)](https://blogwidget.com/api/posting-link/4?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/5?blogName=olrlobt)](https://blogwidget.com/api/posting-link/5?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/6?blogName=olrlobt)](https://blogwidget.com/api/posting-link/6?blogName=olrlobt)
-[![게시물](https://blogwidget.com/api/posting/7?blogName=olrlobt)](https://blogwidget.com/api/posting-link/7?blogName=olrlobt)
+[![블로그 정보](https://blogwidget.com/api/t/blog?name=olrlobt)](https://olrlobt.tistory.com/)
+[![게시물](https://blogwidget.com/api/t/posting/0?name=olrlobt)](https://blogwidget.com/api/t/link/0?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/1?name=olrlobt)](https://blogwidget.com/api/t/link/1?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/2?name=olrlobt)](https://blogwidget.com/api/t/link/2?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/3?name=olrlobt)](https://blogwidget.com/api/t/link/3?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/4?name=olrlobt)](https://blogwidget.com/api/t/link/4?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/5?name=olrlobt)](https://blogwidget.com/api/t/link/5?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/6?name=olrlobt)](https://blogwidget.com/api/t/link/6?name=olrlobt)
+[![게시물](https://blogwidget.com/api/t/posting/7?name=olrlobt)](https://blogwidget.com/api/t/link/7?name=olrlobt)
 
 
 
